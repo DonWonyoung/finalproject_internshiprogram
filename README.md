@@ -29,4 +29,4 @@ DEALLOCATE PREPARE stmt;
 Open the project in the React folder at Visual Studio Code, new terminal and type ```npm start```.
 
 ## Demo video
-Video demo link: [https://drive.google.com/drive/my-drive?hl=id](https://drive.google.com/file/d/1MSO0j4YHYH2nC6BtNc9hi9dt3ML3IBod/view?usp=sharing)
+Video demo link: [https://drive.google.com/file/d/1MSO0j4YHYH2nC6BtNc9hi9dt3ML3IBod/view?usp=sharing](https://drive.google.com/file/d/1MSO0j4YHYH2nC6BtNc9hi9dt3ML3IBod/view?usp=sharing)
